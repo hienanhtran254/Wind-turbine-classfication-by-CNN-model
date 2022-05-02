@@ -1,1 +1,1 @@
-# Wind-turbine-classfication-by-CNN-model
+# Wind turbine classfication by CNN model
